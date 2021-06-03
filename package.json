@@ -1,0 +1,16 @@
+{
+  "name": "nodejstuts",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "sudo nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "lodash": "^4.17.21"
+  }
+}

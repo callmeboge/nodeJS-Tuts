@@ -1,0 +1,1 @@
+Hi Ini adalah isi dari file second.txt 

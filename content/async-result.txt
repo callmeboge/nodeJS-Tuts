@@ -1,0 +1,2 @@
+Here is gabungan sebagai async : Hi Ini adalah isi dari file firts.txt Hi Ini adalah isi dari file second.txt 
+Here is gabungan sebagai async : Hi Ini adalah isi dari file firts.txt Hi Ini adalah isi dari file second.txt Here is gabungan sebagai async : Hi Ini adalah isi dari file firts.txt Hi Ini adalah isi dari file second.txt Here is gabungan sebagai async : Hi Ini adalah isi dari file firts.txt Hi Ini adalah isi dari file second.txt 
